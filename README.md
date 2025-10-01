@@ -58,3 +58,11 @@
 ### 2. Dashboard in Power BI
 ![Success by Category](Screenshot%202025-09-25%20164449.png)
 
+ 7. SQL Queries
+
+The SQL file used to extract insights for the crowdfunding dashboards is:
+
+- [`QUERIES FOR QUESTIONNAIRE.sql`](QUERIES%20FOR%20QUESTIONNAIRE.sql)
+
+
+
