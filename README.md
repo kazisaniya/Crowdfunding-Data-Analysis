@@ -1,11 +1,9 @@
 # Crowdfunding-Data-Analysis
-Crowdfunding Analysis – SQL, Excel, Tableau &amp; Power BI dashboards
+Crowdfunding Kickstarter project analysis with MySQL, Excel Power Query, Tableau/Power BI dashboards, and KPIs"
 
-What is Crowdfunding
- Crowdfunding is the practice of funding a project 
-or venture by raising small amounts of money from 
-a large number of people, typically via the Internet. 
 
- Crowdfunding is a form of crowdsourcing and 
-alternative finance. In 2015, over US$34 billion was 
-raised worldwide by crowdfunding.
+
+ Project Overview
+This project analyzes crowdfunding campaign data (Kickstarter) using **SQL, Excel Power Query, Tableau/Power BI**.  
+The goal is to evaluate project success factors, trends, and KPIs.
+
