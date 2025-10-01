@@ -52,9 +52,9 @@
 6. Dashboards
    
 
-### 1. Dashboard in Power BI
+### 1. Dashboard in Tableau
 ![Overview](Screenshot%202025-08-05%20at%2012.55.05_551477d5(1).jpg)
 
-### 2. Dashboard in Tableau
+### 2. Dashboard in Power BI
 ![Success by Category](Screenshot%202025-09-25%20164449.png)
 
