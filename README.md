@@ -48,3 +48,13 @@
      * Chiptune projects lead in success (~76%), while niche categories like Jazz or Graphic Novels have lower rates (~60%)
 
      * A few high-performing projects dominate fundraising ($23M–$81M), while nearly half of all projects fail, reflecting a competitive environment
+  
+6. Dashboards
+   
+
+### 1. Dashboard in Power BI
+![Overview](Screenshot%202025-08-05%20at%2012.55.05_551477d5(1).jpg)
+
+### 2. Dashboard in Tableau
+![Success by Category](Screenshot%202025-09-25%20164449.png)
+
